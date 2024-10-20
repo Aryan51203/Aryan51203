@@ -1,6 +1,6 @@
 ### About Me 😄
 * Hey there, I am Aryan Singh.
-* A 2nd Year Undergraduate student in Computer Science and Engineering at [IIT Roorkee](https://www.iitr.ac.in).
+* A 3rd Year Undergraduate student in Computer Science and Engineering at [IIT Roorkee](https://www.iitr.ac.in).
 * Developer at [SDSLabs](https://github.com/sdslabs).
 
 <hr>
